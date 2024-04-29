@@ -64,6 +64,7 @@
     "transform": {
       "^.+\\.(t|j)s$": "ts-jest"
     },
+    "testEnvironment": "node",
     "reporters": [
       "default",
       "jest-junit"
